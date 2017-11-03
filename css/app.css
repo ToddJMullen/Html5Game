@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+#page{
+    position: absolute; left: 0; top: 0;
+    width: 1000px; height: 638px;
+}
+#top-bar{
+    position: absolute; left: 0; top: 0;
+    width: 1000px; height: 638px;
+    background-color: #369;
+    color: #fff;
+}
+#game{
+    position: absolute; left: 0; top: 70px;
+    width: 1000px; height: 520px;
+    background-color: #dfe;
+    clip: auto;
+    overflow: hidden;
+}
+#footer-bar{
+    position: absolute; left: 0; top: 690px;
+    width: 1000px; height: 48px;
+    background-color: #963;
+}
